@@ -1,0 +1,27 @@
+  h1,p{
+    text-align: center;
+  }
+  .box,.bbox{
+    border: 2px solid ; 
+    padding:25px;    
+  }
+  img{    
+    border-radius: 50%; 
+    width:inherit;     
+  }
+  body{
+    padding:10px;
+  }
+  .col-md-4{
+    border:2px solid black;  
+    padding:20px;
+    height:200px;  
+    text-align: center;         
+  }
+  label {
+    width:150px;  
+    text-align:right;    
+  }
+  
+  
+  
